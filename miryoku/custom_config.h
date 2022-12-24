@@ -7,7 +7,7 @@ U_MT(LGUI, N),     U_MT(LALT, S),     U_MT(LCTRL, R),    U_MT(LSHFT, T),    &kp 
 U_LT(U_BUTTON, Z), U_MT(RALT, X),     &kp K,             &kp C,             &kp V,             &kp J,             &kp L,             &kp U,             U_MT(RALT, P),     U_LT(U_BUTTON, SLASH),\
 U_NP,              U_NP,              U_LT(U_FUN, ESC),  U_LT(U_NUM, SPC),  U_LT(U_SYM, TAB),  U_LT(U_MOUSE, RET),U_LT(U_NAV, BSPC), U_LT(U_MEDIA, DEL),U_NP,              U_NP
 
-#define MIRYOKU_ALTERNATIVES_TAP_WORKMAN \
+#define MIRYOKU_LAYER_TAP \
 &kp Q,             &kp O,             &kp M,             &kp B,             &kp COMMA,         &kp DOT,           &kp F,             &kp W,             &kp D,             &kp SQT,           \
 &kp N,             &kp S,             &kp R,             &kp T,             &kp G,             &kp Y,             &kp H,             &kp E,             &kp A,             &kp I,             \
 &kp Z,             &kp X,             &kp K,             &kp C,             &kp V,             &kp J,             &kp L,             &kp U,             &kp P,             &kp SLASH,         \
