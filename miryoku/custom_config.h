@@ -1,6 +1,8 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
+#include "artoo_exit_tap_combo.dtsi"
+
 #define MIRYOKU_LAYER_BASE \
 &kp Q,             &kp O,             &kp M,             &kp B,             &kp COMMA,         &kp DOT,           &kp F,             &kp W,             &kp D,             &kp SQT,           \
 U_MT(LGUI, N),     U_MT(LALT, S),     U_MT(LCTRL, R),    U_MT(LSHFT, T),    &kp G,             &kp Y,             U_MT(LSHFT, H),    U_MT(LCTRL, E),    U_MT(LALT, A),     U_MT(LGUI, I),     \
