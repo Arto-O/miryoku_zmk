@@ -311,8 +311,8 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 
 #define MIRYOKU_ALTERNATIVES_MEDIA_INVERTEDT_FLIP \
-U_NA,              K_BACK,            &kp C_VOL_UP,      K_FORWARD,         U_NA,              U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
-U_NA,              &kp C_PREV,        &kp C_VOL_DN,      &kp C_NEXT,        C_PWR,             U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
+&kp LG(F12),       &kp K_BACK,        &kp C_VOL_UP,      &kp K_FORWARD,     &kp LG(F10),       U_NA,              &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,            \
+&kp LG(F11),       &kp C_PREV,        &kp C_VOL_DN,      &kp C_NEXT,        &kp C_PWR,         U_NA,              &kp LSHFT,         &kp LCTRL,         &kp LALT,          &kp LGUI,          \
 &u_bt_sel_0,       &u_bt_sel_1,       &u_bt_sel_2,       &bt BT_CLR,        &u_out_tog,        U_NA,              &u_to_U_MEDIA,     &u_to_U_FUN,       &kp RALT,          U_NA,              \
 U_NP,              U_NP,              &kp C_MUTE,        &kp C_PP,          &kp C_STOP,        U_NA,              U_NA,              U_NA,              U_NP,              U_NP
 
